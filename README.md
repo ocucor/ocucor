@@ -15,7 +15,7 @@
 
 </div>
 
-Hi! I'm Yura, a Software Engineer that specializes in IoT, Data Processing and System Programming. I also dabble in Web Development and Reverse Engineering.
+Hi! I'm Leah, a Software Engineer that specializes in IoT, Data Processing and System Programming. I also dabble in Web Development and Reverse Engineering.
 
 On the Destiny side I'm a lead on [Dawn](https://github.com/isinternets/Dawn) and contribute to [Sunrise](https://github.com/stanuwu/Sunrise), the offline preservation mod for D2.
 
