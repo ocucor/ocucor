@@ -36,7 +36,6 @@ Outside of that I make small web things in TypeScript, keep my dotfiles somewhat
 <a href="https://github.com/isinternets/Dawn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=isinternets&repo=Dawn&theme=rose_pine&hide_border=true" alt="Dawn"/></a>
 <a href="https://github.com/ocucor/CASCADE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ocucor&repo=CASCADE&theme=rose_pine&hide_border=true" alt="CASCADE"/></a>
 <a href="https://github.com/ocucor/dotreport"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ocucor&repo=dotreport&theme=rose_pine&hide_border=true" alt="dotreport"/></a>
-<a href="https://github.com/lotus-gd/lotus-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lotus-gd&repo=lotus-web&theme=rose_pine&hide_border=true" alt="lotus-web"/></a>
 
 </div>
 
