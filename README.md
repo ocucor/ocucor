@@ -19,7 +19,7 @@ Hi! I'm Yura, a testing equipment and system software engineer. I've been on her
 
 On the Destiny side I'm a lead on [Dawn](https://github.com/isinternets/Dawn) and contribute to [Sunrise](https://github.com/stanuwu/Sunrise), the offline preservation mod for D2.
 
-On the GD side I help run the [Impossible Levels List](https://github.com/ImpossibleLevelList/LevelList). Before that it was private servers, Discord bots, list sites and Lotus. Lately I write Geode mods in C++.
+On the GD side I help run the [Impossible Levels List](https://github.com/ImpossibleLevelList/). Before that it was private servers, Discord bots, list sites and Lotus. Lately I write Geode mods in C++.
 
 Outside of that I make small web things in TypeScript, keep my dotfiles somewhat tidy, and spend too long tuning game configs on a laptop that really should not be running them.
 
@@ -33,9 +33,9 @@ Outside of that I make small web things in TypeScript, keep my dotfiles somewhat
 
 <div align="center">
 
-<a href="https://github.com/isinternets/Dawn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=isinternets&repo=Dawn&theme=rose_pine&hide_border=true" alt="Dawn"/></a>
-<a href="https://github.com/ocucor/CASCADE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ocucor&repo=CASCADE&theme=rose_pine&hide_border=true" alt="CASCADE"/></a>
-<a href="https://github.com/ocucor/dotreport"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ocucor&repo=dotreport&theme=rose_pine&hide_border=true" alt="dotreport"/></a>
+<a href="https://github.com/isinternets/Dawn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=isinternets&repo=Dawn&theme=rose_pine&hide_border=true&description_lines_count=2" alt="Dawn"/></a>
+<a href="https://github.com/ocucor/CASCADE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ocucor&repo=CASCADE&theme=rose_pine&hide_border=true&description_lines_count=2" alt="CASCADE"/></a>
+<a href="https://github.com/ocucor/dotreport"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ocucor&repo=dotreport&theme=rose_pine&hide_border=true&description_lines_count=2" alt="dotreport"/></a>
 
 </div>
 
