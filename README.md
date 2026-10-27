@@ -15,13 +15,13 @@
 
 </div>
 
-Hi! I'm Yura, a testing equipment and system software engineer. I've been on here since 2019, and most of that time has gone into Geometry Dash and Destiny 2.
+Hi! I'm Yura, a Software Engineer that specializes in IoT, Data Processing and System Programming. I also dabble in Web Development and Reverse Engineering.
 
 On the Destiny side I'm a lead on [Dawn](https://github.com/isinternets/Dawn) and contribute to [Sunrise](https://github.com/stanuwu/Sunrise), the offline preservation mod for D2.
 
-On the GD side I help run the [Impossible Levels List](https://github.com/ImpossibleLevelList/). Before that it was private servers, Discord bots, list sites and Lotus. Lately I write Geode mods in C++.
+On the Geometry Dash side I help run the [Impossible Levels List](https://impossiblelevels.com/). Before that it was private servers, Discord bots, list sites and Lotus (A Performance Point implementation project). Lately I've been learning the Geode SDK.
 
-Outside of that I make small web things in TypeScript, keep my dotfiles somewhat tidy, and spend too long tuning game configs on a laptop that really should not be running them.
+Outside of that I make small web things in TypeScript, keep my dotfiles somewhat tidy, and spend too long tuning games and graphic-intensive content on a laptop that really should not be running them.
 
 ### What I use
 
@@ -39,7 +39,7 @@ Outside of that I make small web things in TypeScript, keep my dotfiles somewhat
 
 </div>
 
-- [Dawn](https://github.com/isinternets/Dawn): Destiny 2 project I help lead
+- [Dawn](https://github.com/isinternets/Dawn): Destiny 2 Reverse Engineering and Restoration project I help lead.
 - [CASCADE](https://github.com/ocucor/CASCADE): Quality of Life mods for CICADAMATA
 - [dotreport](https://github.com/ocucor/dotreport): A profile site laid out like a report, built on the Bungie and last.fm APIs
 - [trinity](https://github.com/ocucor/trinity): My dotfiles for some Systems, heavily in progress.
