@@ -30,7 +30,7 @@ Outside of that I make small web things in TypeScript, keep my dotfiles somewhat
 </p>
 
 ### Projects
-
+<!--
 <div align="center">
 
 <a href="https://github.com/isinternets/Dawn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=isinternets&repo=Dawn&theme=rose_pine&hide_border=true&description_lines_count=2" alt="Dawn"/></a>
@@ -38,7 +38,7 @@ Outside of that I make small web things in TypeScript, keep my dotfiles somewhat
 <a href="https://github.com/ocucor/dotreport"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ocucor&repo=dotreport&theme=rose_pine&hide_border=true&description_lines_count=2" alt="dotreport"/></a>
 
 </div>
-
+-->
 - [Dawn](https://github.com/isinternets/Dawn): Destiny 2 Reverse Engineering and Restoration project I help lead.
 - [CASCADE](https://github.com/ocucor/CASCADE): Quality of Life mods for CICADAMATA
 - [dotreport](https://github.com/ocucor/dotreport): A profile site laid out like a report, built on the Bungie and last.fm APIs
